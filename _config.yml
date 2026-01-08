@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Cody MacLeod ePortfolio
-email: codymacleod@snhu.edu
+email: cs.cody.macleod@gmail.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A portfolio showcasing highlights of my experience in the Computer Science program at SNHU.
 baseurl: "" # the subpath of your site, e.g. /blog
